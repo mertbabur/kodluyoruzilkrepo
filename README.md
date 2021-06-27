@@ -6,7 +6,9 @@ README dosyası, bir adet de index.html barındırıyor.
 ## Installation
 Öncelikle projeyi clonelayın.
 
-`git clone https://github.com/mertbabur/kodluyoruzilkrepo.git`
+```
+git clone https://github.com/mertbabur/kodluyoruzilkrepo.git
+```
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Cade programında açınız.
